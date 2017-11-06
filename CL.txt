@@ -1,0 +1,6 @@
+1. So sánh và nêu ra vấn đề của một số hệ thống quản lý giáo dục trực tuyến hiện nay (trang 12 - trang 16)
+2. Đưa ra lý luận và so sánh để lựa chọn công nghệ phát triển ứng dụng đa nền tảng (trang 19 - trang 21)
+3. Đưa ra lý luận và so sánh để lựa chọn công nghệ hiển thị bài giảng chữ viết tay và PDF (trang 22 - trang 24)
+4. Nêu chi tiết hơn vấn đề đồng bộ giữa dữ liệu giả video và dữ liệu âm thanh (trang 46 - trang 48)
+5. Sửa hết các lỗi chính tả
+6. Cập nhật khuôn mẫu tài liệu tham khảo (trang 68 - trang 69)
